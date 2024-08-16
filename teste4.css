@@ -1,0 +1,19 @@
+.quem{ color: orange;
+    margin-right: 8px;
+}
+
+.nos{ color: black;
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;
+justify-content: center;
+padding: 20px;
+}
+
+.daniel{ margin-top: 80px;
+}
+
+    hr{border: 0;
+        height: 2px;
+        background: #333;
+        margin: 20px 0;}

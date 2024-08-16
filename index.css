@@ -1,0 +1,52 @@
+
+*{margin: 0;
+    box-sizing: border-box;}
+
+
+.pai{ display: flex;
+justify-content: space-around;
+ }
+
+ .imagem{ width: 50px;
+height: 50px; 
+margin-right: 50px;}
+
+.filhos{color: orange;}
+
+a{color: orange;
+text-decoration: none;
+transition: all;}
+ 
+.banner{ margin-top: 40px;
+ } 
+
+ .midia{ display: flex;
+text-align: center;
+justify-content: center;
+margin-top: 20px; 
+font-size: 30px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: bold;}
+
+.CONHECER { color: orange;
+padding-left: 2px; 
+margin-left: 4px;
+margin-right: 4px;}
+
+ 
+ 
+.traço{ border-radius: 30px; font-style: bold; font-size: 30px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
